@@ -1,6 +1,6 @@
 # rasheedalli2.github.io
-## H/W
-### Rasheed Alli allirasheed5@gmail.com
+## Rasheed Alli allirasheed5@gmail.com
+### H/W
 [lab resume](https://rawcdn.githack.com/rasheedalli/lab4Resume/686f424c901c7383d6bfea0b7a5de4965c0dbbdf/lab4Resume.html)
 
 [video lab](https://rawcdn.githack.com/rasheedalli/video-lab/ea527e8dd78e3a6e28e24b45e748ea1474016015/video%20lab.html)
